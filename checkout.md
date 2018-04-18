@@ -28,3 +28,7 @@ public interface ICheckout
 ## What we're looking for
 
 We're looking for the way that you tackle the problem, your thought processes, and the code you write as a result. Commit as many times as you like, this will help with following your thought processes.
+
+## Submitting your code
+
+Please review the [submission guidelines](SubmissionGuidelines.md).
