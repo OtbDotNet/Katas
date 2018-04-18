@@ -24,3 +24,9 @@ A [Unit test project](FizzBuzz.Tests) with a [single test](FizzBuzz.Tests/GetOut
 1. Code that can be compiled and run
 2. Code that outputs the correct values
 3. This is your chance to shine and show us what you can do. Show us how you arrived at your completed solution, so do lots of commits, even if you decide that a step is incorrect
+
+## Submitting your code
+
+If you decide to use the solution available in this repository you should fork it, and then push your changes to the fork, you will not be able to push changes to [OtbDotNet/Katas](https://github.com/OtbDotNet/Katas).
+
+Please review the [submission guidelines](../SubmissionGuidelines.md).
