@@ -1,6 +1,6 @@
 # Submission guidelines
 
-If you've been asked to do one of our Katas we try and ask as little as possible, however please make sure to follow these guidelines. Submissions that do not follow them will not be considered:
+If you've been asked to do one of our Katas we like you to feel free to implement the kata in the best way you see fit, however please make sure to follow these submission guidelines. Submissions that do not follow them will not be considered:
 
 * We want you to submit your code via a public code repository such as [GitHub](https://github.com/) or [BitBucket](https://bitbucket.org/). If you want to host it somewhere else, that's fine, but please do not link us to a zip (or other archive) of code, we will not review this.
   * As an added bonus _do lots of commits_! This helps us to understand how you have arrived at your solution.
