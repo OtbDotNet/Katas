@@ -6,7 +6,7 @@ Welcome to the OTB .NET team's interview process. This readme will take you thro
 |----------|------|
 | [Introduction and CV discussion](#introduction-and-cv-discussion) | 45 minutes |
 | [Kata](#kata) | 1 hour |
-| Meet the team | 15 minutes |
+| [Meet the team](#meet-the-team) | 15 minutes |
 | Development tour | 30 minutes |
 | Bug fixing | 45 minutes |
 | Your questions answered, AOB | 45 minutes |
@@ -34,3 +34,7 @@ This is your opportunity to really shine and show us what you can do.
 The idea of doing the kata _is not_ to reach a complete solution.
 
 We will be supplying a laptop to work on, with Visual Studio and Resharper. We use git (specifically GitHub Enterprise) internally, so we would like you to use git. If you don't currently use a source control tool don't worry.
+
+## Meet the team
+
+We aim to provide a short opportunity for you to meet the people you will be working with should you join the OTB .NET team. If you've questions to ask this is a good opportunity.
