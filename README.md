@@ -21,7 +21,7 @@ During this phase of the interview we will be discussing your knowledge of [On T
 
 Currently we use two Katas. We use the [FizzBuzz Kata](/FizzBuzz/readme.md) with people who we feel to be still developing their skills as software engineers. For more advanced software engineers we use the [Checkout kata](checkout.md).
 
-In all cases you will be completeing the Kata with (a) member(s) the team, and the aim of the kata is to help us understand a number of things:
+In all cases you will be completing the Kata with (a) member(s) of the team, and the aim of the kata is to help us understand a number of things:
 
 * What actually is your level of skill? (it turns out CVs give us a rough pointer, but not a full picture)
 * What is your experience level with TDD?
