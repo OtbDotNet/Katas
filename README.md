@@ -1,10 +1,10 @@
-## OTB .NET team interview process
+# OTB .NET team interview process
 
 Welcome to the OTB .NET team's interview process. This readme will take you through what to expect during your half day with the OTB .NET team.
 
 | Activity | Time |
 |----------|------|
-| Introduction and CV discussion | 45 minutes |
+| [Introduction and CV discussion](#introduction-and-cv-discussion) | 45 minutes |
 | Kata | 1 hour |
 | Meet the team | 15 minutes |
 | Development tour | 30 minutes |
@@ -12,3 +12,7 @@ Welcome to the OTB .NET team's interview process. This readme will take you thro
 | Your questions answered, AOB | 45 minutes |
 
 As you can see we have allowed *four (4) hours* for the interview process.
+
+## Introduction and CV discussion
+
+During this phase of the interview we will be discussing your knowledge of [On The Beach](https://www.onthebeach.co.uk), and your work history based on your CV.
