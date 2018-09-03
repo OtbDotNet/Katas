@@ -21,11 +21,12 @@ During this phase of the interview we will be discussing your knowledge of [On T
 
 Currently we use two Katas. We use the [FizzBuzz Kata](/FizzBuzz/readme.md) with people who we feel to be still developing their skills as software engineers. For more advanced software engineers we use the [Checkout kata](checkout.md).
 
-In all cases the aim of the kata is to help us understand a number of things:
+In all cases you will be completeing the Kata with (a) member(s) the team, and the aim of the kata is to help us understand a number of things:
 
 * What actually is your level of skill? (it turns out CVs give us a rough pointer, but not a full picture)
-* How do you work with other people?
 * What is your experience level with TDD?
+* How do you work with other people?
+* How do you approach solving a problem?
 
 ![Shine](shine.jpg)
 
@@ -47,7 +48,10 @@ We will take you for a tour of our development facilities, briefly introducing y
 
 This is the second, and last, slot in front of a computer today. This is a chance for you to have a look at how we write code, and to show us how you would approach tackling a bug in our software (sorry, we're not perfect, on the other hand we do acknowledge that).
 
-Again you will be working on one of our laptops, with Visual Studio, Resharper and Git. And again you will also be able to access the internet should you need to look anything up.
+Again you will be:
+* working on one of our laptops, with Visual Studio, Resharper and Git
+* able to access the internet should you need to look anything up
+* working with (a) member(s) of the team
 
 ## Any other business
 
