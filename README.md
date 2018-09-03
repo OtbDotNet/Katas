@@ -8,7 +8,7 @@ Welcome to the OTB .NET team's interview process. This readme will take you thro
 | [Kata](#kata) | 1 hour |
 | [Meet the team](#meet-the-team) | 15 minutes |
 | [Development tour](#development-tour) | 30 minutes |
-| Bug fixing | 45 minutes |
+| [Bug fixing](#bug-fixing) | 45 minutes |
 | Your questions answered, AOB | 45 minutes |
 
 As you can see we have allowed *four (4) hours* for the interview process.
@@ -33,7 +33,7 @@ This is your opportunity to really shine and show us what you can do.
 
 The idea of doing the kata _is not_ to reach a complete solution.
 
-We will be supplying a laptop to work on, with Visual Studio and Resharper. We use git (specifically GitHub Enterprise) internally, so we would like you to use git. If you don't currently use a source control tool don't worry.
+We will be supplying a laptop to work on, with Visual Studio and Resharper. We use git (specifically GitHub Enterprise) internally, so we would like you to use git. If you don't currently use a source control tool don't worry. You will also be able to access the internet should you need to look anything up.
 
 ## Meet the team
 
@@ -42,3 +42,9 @@ We aim to provide a short opportunity for you to meet the people you will be wor
 ## Development tour
 
 We will take you for a tour of our development facilities, briefly introducing you to other teams within development. However please bear in mind that [development will shortly be relocating](https://www.manchestereveningnews.co.uk/business/business-news/former-aircraft-factory-thats-been-14890328). We'll introduce to as many members of development senior management as possible and this is another good opportunity to ask questions.
+
+## Bug fixing
+
+This is the second, and last, slot in front of a computer today. This is a chance for you to have a look at how we write code, and to show us how you would approach tackling a bug in our software (sorry, we're not perfect, on the other hand we do acknowledge that).
+
+Again you will be working on one of our laptops, with Visual Studio, Resharper and Git. And again you will also be able to access the internet should you need to look anything up.
