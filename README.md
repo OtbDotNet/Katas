@@ -7,7 +7,7 @@ Welcome to the OTB .NET team's interview process. This readme will take you thro
 | [Introduction and CV discussion](#introduction-and-cv-discussion) | 45 minutes |
 | [Kata](#kata) | 1 hour |
 | [Meet the team](#meet-the-team) | 15 minutes |
-| Development tour | 30 minutes |
+| [Development tour](#development-tour) | 30 minutes |
 | Bug fixing | 45 minutes |
 | Your questions answered, AOB | 45 minutes |
 
@@ -38,3 +38,7 @@ We will be supplying a laptop to work on, with Visual Studio and Resharper. We u
 ## Meet the team
 
 We aim to provide a short opportunity for you to meet the people you will be working with should you join the OTB .NET team. If you've questions to ask this is a good opportunity.
+
+## Development tour
+
+We will take you for a tour of our development facilities, briefly introducing you to other teams within development. However please bear in mind that [development will shortly be relocating](https://www.manchestereveningnews.co.uk/business/business-news/former-aircraft-factory-thats-been-14890328). We'll introduce to as many members of development senior management as possible and this is another good opportunity to ask questions.
