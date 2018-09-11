@@ -2,16 +2,12 @@
 
 Welcome to the OTB .NET team's interview process. This readme will take you through what to expect during your half day with the OTB .NET team.
 
-| Activity | Time |
-|----------|------|
-| [Introduction and CV discussion](#introduction-and-cv-discussion) | 45 minutes |
-| [Kata](#kata) | 1 hour |
-| [Meet the team](#meet-the-team) | 15 minutes |
-| [Development tour](#development-tour) | 30 minutes |
-| [Bug fixing](#bug-fixing) | 45 minutes |
-| [Your questions answered, AOB](#any-other-business) | 45 minutes |
-
-As you can see we have allowed *four (4) hours* for the interview process.
+* [Introduction and CV discussion](#introduction-and-cv-discussion)
+* [Kata](#kata) (1 hour)
+* [Meet the team](#meet-the-team)
+* [Development tour](#development-tour)
+* [Bug fixing](#bug-fixing) (45 minutes - 1 hour)
+* [Your questions answered, AOB](#any-other-business)
 
 ## Introduction and CV discussion
 
@@ -55,4 +51,4 @@ Again you will be:
 
 ## Any other business
 
-By this point hopefully we'll all know each as well as can be expected after about 3 and half hours together, but if we have any questions left we'll ask them here. At the same time if you have any questions you haven't had chance to raise, this is your opportunity as well.
+By this point hopefully we'll all know each as well as can be expected after a half day together, but if we have any questions left we'll ask them here. At the same time if you have any questions you haven't had chance to raise, this is your opportunity as well.
